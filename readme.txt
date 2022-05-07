@@ -12,3 +12,6 @@ Creating a new branch is quick AND simple.
 再次修改提交，
 如果要强制禁用Fast forward模式，Git就会在merge时生成一个新的commit，这样，从分支历史上就可以看出分支信息。
 创建一枝新的分支，处理临时紧急文件
+
+
+test 1
